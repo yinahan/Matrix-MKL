@@ -3,7 +3,7 @@
 %   Han Yina, Yang Yixin, Li Xuelong, Liu Qingyu, Ma Yuanliang, Matrix Regularized Multiple Kernel Learning via (r,p) Norms[J]. 
 %   IEEE Transactions on Neural Networks and Learning Systems. Volume: 29, Issue: 10, pp.4997 - 5007. 2018. 
 %   Copyright 2018~ , Han Yina. 
-%   Author:   Han Yina.  Email£ºyina.han@nwpu.edu.cn
+%   Author:   Han Yina.  Email:  yina.han@nwpu.edu.cn
 %   Revision: 1.0  
 %   Date: 2018/12/13 
 
